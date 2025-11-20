@@ -14,7 +14,7 @@ Déterminer quels types de contenus, jours, heures et stratégies de sponsorisat
 
 ## 📂 Contenu du projet
 
-- `notebook_facebook_analysis.ipynb` : Analyse complète avec Python (nettoyage, exploration, insights)
+- `Facebook_Cosmetic_Brand_Dataset.ipynb` : Analyse complète avec Python (nettoyage, exploration, insights)
 - `dataset_Facebook_cleaned.csv` : Dataset nettoyé (500 lignes, 16 colonnes)
 - `dashboard_facebook_powerbi.png` : Dashboard Power BI avec 5 visualisations clés
 - `Analyse-Marketing-Digital-Facebook-Metrics.pdf` : Présentation des insights et recommandations (5 slides)
